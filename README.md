@@ -34,7 +34,7 @@ If you have any questions, feedback, or issues, please reach out to us on our [D
 
 ## License
 
-SoccerPredictAI is released under the [MIT License](https://github.com/deltacerebrum/soccer-predict-ai/LICENSE). Please review the license terms before using this open-source project.
+SoccerPredictAI is released under the [MIT License](./LICENSE.md). Please review the license terms before using this open-source project.
 
 ## Acknowledgements
 
