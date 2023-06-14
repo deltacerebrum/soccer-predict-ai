@@ -18,15 +18,15 @@ SoccerPredictAI is an open-source project that offers accurate predictions for s
 
 ## Installation
 
-To install and set up SoccerPredictAI, please refer to the [Installation Guide](https://github.com/deltacerebrum/soccer-predict-ai/docs/installation.md) for detailed instructions.
+To install and set up SoccerPredictAI, please refer to the [Installation Guide](./docs/installation.md) for detailed instructions.
 
 ## Usage
 
-For instructions on how to use SoccerPredictAI, including API usage guidelines and code explanations, please refer to the [Usage Guide](https://github.com/deltacerebrum/soccer-predict-ai/docs/usage.md).
+For instructions on how to use SoccerPredictAI, including API usage guidelines and code explanations, please refer to the [Usage Guide](./docs/usage.md).
 
 ## Contributing
 
-We welcome contributions from the community to make SoccerPredictAI even better. To contribute, please follow the guidelines outlined in [CONTRIBUTING.md](https://github.com/deltacerebrum/soccer-predict-ai/docs/contributing.md).
+We welcome contributions from the community to make SoccerPredictAI even better. To contribute, please follow the guidelines outlined in [CONTRIBUTING.md](./docs/contributing.md).
 
 ## Support
 
